@@ -47,8 +47,7 @@ Welcome to my GitHub! I'm a Python programmer with a strong passion for building
 ---
 
 ## 📫 Connect With Me
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 💼 LinkedIn: [linkedin.com/in/yourusername]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/ikechukwu-mba-247749303/))
+- 💼 LinkedIn: [linkedin.com/in/ikechukwu-mba-247749303/](https://www.linkedin.com/in/ikechukwu-mba-247749303/)
 - 📧 Email: mbaikechukwu10@gmail.com
 
 ---
